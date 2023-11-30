@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 32px;
+    font-weight: normal;
+    font-style: italic;
+    text-align: left;
+}
+
+p {
+    color: white;
+}
+
+a {
+    color: white;
+}
